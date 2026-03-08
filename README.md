@@ -1,4 +1,8 @@
-# Hi, I'm Nassir Hassan 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nassir+Hassan;Junior+Front-End+Developer;Based+in+London+%F0%9F%87%AC%F0%9F%87%A7;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+
+</div>
 
 Junior Front-End Developer based in London, transitioning into software development after completing a certified Web Development bootcamp at Bath Spa University (Institute of Coding). I bring 7+ years of professional experience in high-pressure environments and a strong drive to build a long-term career in tech.
 
@@ -58,4 +62,20 @@ Before moving into tech, I spent 7+ years working in security — monitoring CCT
 
 ---
 
-*Always learning. Always building.*
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nassir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nassir97&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nassir97&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=100&section=footer)
+
+</div>
